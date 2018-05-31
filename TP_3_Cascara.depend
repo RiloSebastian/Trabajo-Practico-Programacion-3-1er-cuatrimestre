@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1527735259 source:c:\users\sebas\desktop\repositorio\trabajo-practico-programacion-3-1er-cuatrimestre\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"validaciones.h"
+
+1527735194 c:\users\sebas\desktop\repositorio\trabajo-practico-programacion-3-1er-cuatrimestre\funciones.h
+
+1527735313 source:c:\users\sebas\desktop\repositorio\trabajo-practico-programacion-3-1er-cuatrimestre\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"validaciones.h"
+
+1527735411 source:c:\users\sebas\desktop\repositorio\trabajo-practico-programacion-3-1er-cuatrimestre\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+	"validaciones.h"
+
+1527716247 c:\users\sebas\desktop\repositorio\trabajo-practico-programacion-3-1er-cuatrimestre\validaciones.h
+
